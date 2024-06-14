@@ -9,7 +9,7 @@ my_path = os.path.dirname(__file__)+"/"
 
 # test git
 
-# edit github
+# edit github 1
 
 # Генерация QR-кода
 qr_data = ['ЕЛЕКТРОННИЙ ДОКУМЕНТ АІС "МІСЦЕВИЙ БЮДЖЕТ" \n',
